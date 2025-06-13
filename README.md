@@ -1,6 +1,4 @@
-# monitoramento-IoT
-
-## Projeto: Monitoramento de Sensores IoT com Kafka
+# Projeto: Monitoramento de Sensores IoT com Kafka
 Este projeto simula o monitoramento de sensores de uma área de engenharia de dados, utilizando um fluxo com Kafka e SQLite.
 
 ## Objetivo:
